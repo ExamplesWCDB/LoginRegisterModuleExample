@@ -1,0 +1,7 @@
+LoginRegisterModuleExample.xcodeproj/xcuserdata/
+LoginRegisterModuleExample.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+LoginRegisterModuleExample.xcodeproj/project.xcworkspace/xcuserdata/
